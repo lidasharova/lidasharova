@@ -7,10 +7,10 @@
 ###    👨🏻‍💻  About Me
 
 - 💡 &nbsp;I am constantly learning new technologies
-- 🎯 &nbsp;I am results oriented.
-- 🎓 &nbsp;I am currently studying JavaScript and React courses.
-- 👩🏼‍💻 &nbsp;I practice writing code daily.
-- ✅ &nbsp;I strive to make the code better and also more readable.
+- 🎯 &nbsp;I am results oriented
+- 🎓 &nbsp;I am currently studying JavaScript and React courses
+- 👩🏼‍💻 &nbsp;I practice writing code daily
+- ✅ &nbsp;I strive to make the code better and also more readable
 - 🙋🏼‍♀️ &nbsp;I am friendly and will fit into any team very well
 - 📋 &nbsp;My resume on [site]() or [habr]() or [headhunter]() (in Russian).
 - ✍🏻 &nbsp;You can shoot me a message at [Telegram](https://t.me/lidasharova)
@@ -30,11 +30,11 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
- ### ⚙️ &nbsp;My Codewars profile
+ ###  &nbsp;My Codewars profile
  [![codewars](https://www.codewars.com/users/rsschool_7e589586a7c4b954/badges/micro)](https://www.codewars.com/users/rsschool_7e589586a7c4b954) 
 
 
- ### ⚙️ &nbsp;GitHub Analytics
+ ###  &nbsp;GitHub Analytics
 
 <a href="https://github.com/lidasharova/github-readme-stats">
   <img height="175em align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lidasharova&layout=compact" />
