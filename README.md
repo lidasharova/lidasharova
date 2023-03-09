@@ -36,14 +36,15 @@
 
  ###  &nbsp;GitHub Analytics
 
+
+
 <a href="https://github.com/lidasharova/github-readme-stats">
-  <img height="175em align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lidasharova&layout=compact" />
+ <img height="175em align="left" src="https://github-readme-stats-1an9-lidasharova.vercel.app/api/top-langs/?username=lidasharova&layout=compact" />
 </a>
 
 <a href="https://github.com/lidasharova">
   <img height="175em align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lidasharova&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
 </a>
-
 
 
 
