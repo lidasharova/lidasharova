@@ -1,4 +1,4 @@
-<h1 align="center">𝕙𝕚 𝕥𝕙𝕖𝕣𝕖, 𝕀'𝕞  <a href="https://lidasharova.github.io/rsschool-cv/" target="_blank">𝕃𝕚𝕕𝕒</a> 
+<h1 align="center">𝕙𝕚 𝕥𝕙𝕖𝕣𝕖, 𝕀'𝕞  <a href="https://lidasharova.github.io/my-cv/" target="_blank">𝕃𝕚𝕕𝕒</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=2EA2D4&width=435&lines=%F0%9D%95%9B%F0%9D%95%A6%F0%9D%95%9F%F0%9D%95%9A%F0%9D%95%A0%F0%9D%95%A3+%F0%9D%95%97%F0%9D%95%A3%F0%9D%95%A0%F0%9D%95%9F%F0%9D%95%A5%F0%9D%95%96%F0%9D%95%9F%F0%9D%95%95+%F0%9D%95%95%F0%9D%95%96%F0%9D%95%A7%F0%9D%95%96%F0%9D%95%9D%F0%9D%95%A0%F0%9D%95%A1%F0%9D%95%96%F0%9D%95%A3" alt="Typing SVG" /></a></h3>
 
@@ -12,7 +12,7 @@
 - 👩🏼‍💻 &nbsp;I practice writing code daily
 - ✅ &nbsp;I strive to make the code better and also more readable
 - 🙋🏼‍♀️ &nbsp;I am friendly and will fit into any team very well
-- 📋 &nbsp;My resume on [site](https://lidasharova.github.io/rsschool-cv/) or [habr](https://career.habr.com/lidiiaa) or [headhunter](https://hh.ru/applicant/resumes/view?resume=e89ef93cff0b1f632a0039ed1f6f3758594945) (in Russian).
+- 📋 &nbsp;My resume on [site](https://lidasharova.github.io/my-cv/) or [habr](https://career.habr.com/lidiiaa) or [headhunter](https://hh.ru/applicant/resumes/view?resume=e89ef93cff0b1f632a0039ed1f6f3758594945) (in Russian).
 - ✍🏻 &nbsp;You can shoot me a message at [Telegram](https://t.me/lidasharova)
    &nbsp;I'll try to respond as soon as I can.
 
