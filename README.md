@@ -47,7 +47,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
-<a href="https://t.me/lidasharova"><img height="25em" src="https://img.shields.io/badge/-@lidasharova-1877F2?style=flat&logo=Telegram&logoColor=white"/></a>
+<a href="https://t.me/lldllaa"><img height="25em" src="https://img.shields.io/badge/-@lidasharova-1877F2?style=flat&logo=Telegram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/lidiia-sharova/"><img height="25em" src="https://img.shields.io/badge/-Lidiia%20Sharova%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:Lida050496@yandex.ru"><img height="25em" src="https://img.shields.io/badge/-Lida050496@yandex.ru-D14836?style=flat&logo=Yandex&logoColor=white"/></a>
 </p>
