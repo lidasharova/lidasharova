@@ -7,7 +7,7 @@
 ###    About Me
 🙋🏼‍♀️  I am constantly learning new technologies, results-oriented, practice writing code daily, strive to make the code better and more readable, and am friendly and will fit into any team.  
 📋 &nbsp;My resume on [site](https://lidasharova.github.io/my-cv/) or [habr](https://career.habr.com/lidiiaa) or [headhunter](https://hh.ru/applicant/resumes/view?resume=e89ef93cff0b1f632a0039ed1f6f3758594945) (in Russian).  
-✍🏻 &nbsp;You can shoot me a message at [Telegram](https://t.me/lidasharova)
+✍🏻 &nbsp;You can shoot me a message at [Telegram](https://t.me/lidamalko)
    &nbsp;I'll try to respond as soon as I can.
 
 
@@ -57,11 +57,11 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
-<a href="https://t.me/lidasharova"><img height="25em" src="https://img.shields.io/badge/-Telegram-1877F2?style=flat&logo=Telegram&logoColor=white"/></a>
+<a href="https://t.me/lidamalko"><img height="25em" src="https://img.shields.io/badge/-Telegram-1877F2?style=flat&logo=Telegram&logoColor=white"/></a>
  <a href="https://discord.com/users/1029739877559959553" target="_blank">
     <img alt="Discord" title="Write me on Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" height="25em"/>
   </a>
-<a href="https://www.linkedin.com/in/lidiia-sharova/"><img height="25em" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/lidamalkova/"><img height="25em" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:Lida050496@yandex.ru"><img height="25em" src="https://img.shields.io/badge/-Lida050496@yandex.ru-D14836?style=flat&logo=Yandex&logoColor=white"/></a>
 </p>
 
