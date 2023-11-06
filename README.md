@@ -34,10 +34,15 @@
 😺 [shop PetJoy(E-commerce)](https://petjoy-by-kdy.netlify.app/)  
 🗿 [Momentum](https://lidasharova-momentum.netlify.app/)  
 💣 [Minesweeper Game](https://rolling-scopes-school.github.io/lidasharova-JSFE2023Q1/minesweeper/)  
+🎏 [Tetris Game](https://github.com/lidasharova/WB-L2-Tetris-game)  
+🖼️ [Mems generator](https://github.com/lidasharova/WB-L2-Mems-generator)  
+❌ [Tic-tac-toe Game](https://github.com/lidasharova/WB-L2-Tic-tac-toe)  
 🐶 [Shelter](https://lidasharova.github.io/shelter/)  
 🪴 [Plants](https://rolling-scopes-school.github.io/lidasharova-JSFEPRESCHOOL2022Q4/plants/)  
 💻 [Virtual Keyboard](https://lidasharova.github.io/virtual-keyboard/virtual-keyboard/)  
 🪗 [CSS - accordeon](https://lidasharova.github.io/cssBayan/cssBayan/index.html)  
+🎵 [Music-player](https://github.com/lidasharova/WB-L2-Music-player)  
+5️⃣ [Guess-the-number](https://github.com/lidasharova/WB-L2-Guess-the-number)  
 ✅ [TO-DO app(React)](https://lidasharova.github.io/todo-react/)
 
 
