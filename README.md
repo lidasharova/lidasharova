@@ -31,6 +31,7 @@
 ![Vitest](https://img.shields.io/badge/-vitest-%23107C10?style=for-the-badge&logo=vitest&logoColor=yellow)
 
 ### My personal projects:
+🛒 [shopping Сart page](https://wb-store-sharova.netlify.app/)  
 😺 [shop PetJoy(E-commerce)](https://github.com/lidasharova/online-shop-PetJoy/tree/develop)  
 🗿 [Momentum](https://lidasharova-momentum.netlify.app/)  
 💣 [Minesweeper Game](https://rolling-scopes-school.github.io/lidasharova-JSFE2023Q1/minesweeper/)  
