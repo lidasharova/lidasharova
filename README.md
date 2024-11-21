@@ -2,8 +2,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=3295ED&width=435&lines=%F0%9D%95%80+%F0%9D%95%92%F0%9D%95%9E+%F0%9D%95%97%F0%9D%95%A3%F0%9D%95%A0%F0%9D%95%9F%F0%9D%95%A5%F0%9D%95%96%F0%9D%95%9F%F0%9D%95%95+%F0%9D%95%95%F0%9D%95%96%F0%9D%95%A7%F0%9D%95%96%F0%9D%95%9D%F0%9D%95%A0%F0%9D%95%A1%F0%9D%95%96%F0%9D%95%A3" alt="Typing SVG" /></a></h3>
 
-##  🔍  Looking for a job for Junior Front End Developer or Internship.
-
 ###    About Me
 🙋🏼‍♀️  I am constantly learning new technologies, results-oriented, practice writing code daily, strive to make the code better and more readable, and am friendly and will fit into any team.  
 📋 &nbsp;My resume on [site](https://lidasharova.github.io/my-cv/) or [habr](https://career.habr.com/lidiiaa) or [headhunter](https://hh.ru/applicant/resumes/view?resume=e89ef93cff0b1f632a0039ed1f6f3758594945) (in Russian).  
